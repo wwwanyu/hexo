@@ -1,0 +1,6 @@
+# Header
+menu:
+  Home: /
+  Archives: /archives
+
+archive_type: 'monthly'
