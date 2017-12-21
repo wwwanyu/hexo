@@ -1,7 +1,7 @@
 ---
 title: btrip-to-china
 date: 2014-02-13
-tags:
+tags: travel
 ---
 # 浙江省出差第一站，和諧的柯橋
 地球好漂亮

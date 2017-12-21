@@ -1,7 +1,7 @@
 ---
 title: 跨越半顆地球發現 Jim Woodring
-date: 2015-03-07 
-tags:
+date: 2015-03-07
+tags: travel
 permalink: i-found-jim-woodring
 ---
 Pei Jung特別推薦的漫畫書店Desert Island，
@@ -42,4 +42,3 @@ you-drive
 所以買了一本〈FRAN〉跟一本有親筆簽名的〈Weathercraft〉，當天晚上不嫌笨重的隨身帶上飛機配啤酒看。
 
 (出發到紐約玩之前，我在公司的電腦桌布還設定著 Jim Woodring 的作品)[https://www.instagram.com/p/vQaM17OtTv/]
-

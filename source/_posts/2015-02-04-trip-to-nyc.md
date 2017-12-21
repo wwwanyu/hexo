@@ -1,7 +1,7 @@
 ---
 title: ㄋㄧㄡ，紐；ㄩㄝ，約。
 date: 2015-02-04
-tags:
+tags: travel
 ---
 終於去了紐約，旅程從2014年末跨到2015年初。
 
@@ -35,7 +35,7 @@ Pace Gallery展出畢卡索，這體驗實在太爽了。不信邪再隨便找�
 村上隆的廟
 村上隆的廟[/caption]
 
-[caption id=”attachment_340” align=”aligncenter” width=”640”]Takashi Murakami 
+[caption id=”attachment_340” align=”aligncenter” width=”640”]Takashi Murakami
 Takashi Murakami
 高架公園下逛不完的藝廊，有些還可以拍照，像這個村上隆的個展。[/caption]
 

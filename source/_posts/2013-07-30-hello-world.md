@@ -1,7 +1,7 @@
 ---
 title: 開幕感言
 date: 2013-07-30
-tags:
+tags: murmur
 ---
 brush bug
 
