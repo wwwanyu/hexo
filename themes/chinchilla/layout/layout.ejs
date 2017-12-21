@@ -1,24 +1,23 @@
 <html>
   <%- partial('_partial/head')%>
-
   <body>
-    <%- partial('_partial/menu')%>
     <div class="container">
       <!-- Blog Header: title and subtitle -->
       <%- partial('_partial/header') %>
       <div class="row">
         <!-- Main Content -->
-        <div class="col-sm-8 blog-main">
-          <%- body %>
-        </div>
-        <!-- Sidebar -->
-          <div class="col-sm-3 col-sm-offset-1 blog-sidebar">
+        <aside class="col-12 col-sm-2">
+          <div class="sticky-top text-sm-right">
+            <%- partial('_partial/menu')%>
             <%- partial('_partial/sidebar') %>
           </div>
+        </aside>
+        <div class="col-12 col-sm-10">
+          <%- body %>
+        </div>
       </div>
     </div>
     <%- partial('_partial/footer')%>
     <%- partial('_partial/after-footer') %>
   </body>
-
 </html>

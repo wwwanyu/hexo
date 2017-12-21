@@ -1,3 +1,25 @@
-body{
-  background-color: yellow;
+$primary-color: #444;
+a{
+  color: $primary-color;
+  &:hover{
+    color: rgba($primary-color,.8);
+    text-decoration: none;
+  }
+}
+ul{
+  &.tag-list{
+    padding-left: 0;
+    li{
+      &.tag-list-item{
+        list-style: none;
+        .tag-list-count{
+          margin-left: .4rem;
+          padding: .1rem .4rem .3rem;
+          border-radius: .4rem;
+          vertical-align: super;
+          background-color: rgba($primary-color,.1);
+        }
+      }
+    }
+  }
 }
