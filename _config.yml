@@ -37,7 +37,7 @@ external_link: true # Open external links in new tab
 excerpt_link: Read More
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
@@ -45,6 +45,7 @@ highlight:
   line_number: true
   auto_detect: false
   tab_replace:
+auto_spacing: true
 
 # Category & Tag
 default_category: uncategorized
