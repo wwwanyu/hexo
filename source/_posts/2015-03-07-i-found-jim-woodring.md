@@ -6,6 +6,7 @@ permalink: i-found-jim-woodring
 ---
 Pei Jung特別推薦的漫畫書店Desert Island，
 Desert Island絕對會入選我「地球上最喜歡的10個書店」名單，店面比我家還小，但是以漫畫為主題，所以能在這裡看到Charles Burns很齊全的作品，但在Strand反而沒有。
+<!--more-->
 
 [caption id=”attachment_328” align=”aligncenter” width=”480”]desert island
 desert island
