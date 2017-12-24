@@ -4,9 +4,14 @@
     <div class="container">
       <!-- Blog Header: title and subtitle -->
       <%- partial('_partial/header') %>
-      <aside class="position-fixed sticky-top">
-        <%- partial('_partial/menu')%>
-        <%- partial('_partial/sidebar') %>
+      <aside class="sticky-top navbar-light g-nav shift mb-3 mb-sm-0">
+        <button class="navbar-toggler d-block d-sm-none" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse d-sm-block" id="navbarNav">
+          <%- partial('_partial/menu')%>
+          <%- partial('_partial/sidebar') %>
+        </div>
       </aside>
       <div class="row">
         <!-- Main Content -->
