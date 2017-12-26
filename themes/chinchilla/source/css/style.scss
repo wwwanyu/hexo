@@ -1,5 +1,8 @@
 $primary-color: #F8E71C;
 $primary-color-dark: rgb(50, 50, 50);
+.navbar-light .navbar-toggler{
+  color: initial;
+}
 .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6{
   margin-bottom: .1rem;
 }
