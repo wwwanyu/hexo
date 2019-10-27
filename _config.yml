@@ -4,7 +4,7 @@
 
 # Site
 title: 80ssundries blog
-subtitle: 
+subtitle:
 description:
 author: 80ssundries
 language:
@@ -79,6 +79,6 @@ node_sass:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:bananapple/blog.git
+  repo: git@github.com:wwwanyu/blog.git
   branch: gh-pages
   message:
