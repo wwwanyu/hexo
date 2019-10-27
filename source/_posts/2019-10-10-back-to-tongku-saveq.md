@@ -276,8 +276,9 @@ tags: travel
 這是從 Tataka Saddle 對面的麟趾山看的角度。
 
 在快到管理站前，看到一隻狗。覺得很諷刺，怎麼會有人山羌看到不想看，就我沒看到山羌還遇到狗，結果這隻狗一轉身，竟然是山羌啊！哈哈哈！原來山羌的屁股這麼像狗，好可愛喔
+<div class="embed-responsive embed-responsive-16by9">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EN2TXddXsv0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+</div>
 走到上東埔停車場已經中午 12 點，錯過往嘉義的員林客運了，接下來的公車是 13:00 或 14:00 發車往日月潭的班次。不想在這裡等一兩個小時，決定試試看搭便車的運氣，竟然攔第一輛就成功！下午 5 點多就抵達台北車站，感謝載我一程的不知名英語系旅客，讓我省下很多時間提早回到家，他們來台灣玩，竟然被我攔下來搭便車 🤣。
 
 #### Tonku Saveq
