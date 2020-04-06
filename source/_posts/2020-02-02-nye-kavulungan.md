@@ -9,6 +9,8 @@ tags: [travel, hiking]
 <!--more-->
 
 因為在排雲山莊認識的也是獨攀的山友池姊，她分享與描述登山的心得實在太吸引我了，聽著她分享爬山的事，讓我決定想要追隨她的腳步去登 Kavulungan 北大武山。
+[{% asset_img kavulungan-trail-map.jpg %}](https://kgonline.forest.gov.tw/introduction/index.php?parent_id=250)
+[檜谷山莊](https://kgonline.forest.gov.tw/)
 
 ---
 
