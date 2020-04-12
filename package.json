@@ -18,6 +18,8 @@
     "hexo-renderer-scss": "^1.2.0",
     "hexo-renderer-stylus": "^0.3.3",
     "hexo-server": "^0.3.3",
-    "validator": "^11.1.0"
+    "validator": "^11.1.0",
+    "kind-of": ">=6.0.3",
+    "minimist": ">=1.2.3"
   }
 }
